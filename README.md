@@ -23,13 +23,13 @@ Windows 11 剪贴板历史管理工具 — 自动记录复制内容，随时搜�
 
 ### 直接使用（绿色版）
 
-从 [Releases](https://github.com/你的用户名/ClipboardManager/releases) 下载 `ClipboardManager.Wpf.exe`，双击运行即可。
+从 [Releases](https://github.com/LZ-vibecoding/ClipboardManager/releases) 下载 `ClipboardManager.Wpf.exe`，双击运行即可。
 
 ### 从源码构建
 
 ```bash
 # 克隆
-git clone https://github.com/你的用户名/ClipboardManager.git
+git clone https://github.com/LZ-vibecoding/ClipboardManager.git
 cd ClipboardManager
 
 # 构建
